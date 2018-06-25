@@ -5,7 +5,6 @@
 # load packages
 
 library(tidyverse)
-library(ggplot2)
 
 # set working directory
 
